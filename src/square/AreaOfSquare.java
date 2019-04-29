@@ -14,4 +14,4 @@ public class AreaOfSquare {
 
 		System.out.println("Area of Square is:" + area);
 	}// main()
-}
+}//test change
